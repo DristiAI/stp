@@ -1,2 +1,2 @@
 # stp
-[ ] remove lag
+- [ ] remove lag
